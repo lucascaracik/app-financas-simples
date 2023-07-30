@@ -13,6 +13,8 @@ A ideia desta primeira versão do app/planilha é a seguinte:
 - o app diz qual o limite recomendável para o seu cartão de crédito/limite de gastos mensal
 - o app apresenta seu limite de gastos diário recomendável
 
+status: não finalizado
+
 Para uma próxima versão pretendo desenvolver no código a segunda parte da planilha, que funciona da seguinte forma:
 
 (input)
